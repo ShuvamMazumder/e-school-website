@@ -1,0 +1,64 @@
+.navbar-logo{
+    
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}
+.navbar{
+    top: 30px;
+}
+#books{
+    padding: 5px;
+    
+
+    width: 57px;
+    height: 34px;
+    left: 825px;
+    top: 30px;
+
+}
+#courses{
+    padding: 5px;
+
+
+    width: 76px;
+    height: 34px;
+    left: 920px;
+    top: 30px;
+}
+#others{
+    padding: 5px;
+
+
+    width: 64px;
+    height: 34px;
+    left: 1021px;
+    top: 30px;
+}
+#blogs{
+    padding: 5px;
+
+
+    width: 45px;
+    height: 34px;
+    left: 1122px;
+    top: 30px;
+}
+.btn-outline-success{
+    padding: 12px 28px;
+
+
+    width: 104px;
+    height: 43px;
+    left: 1201px;
+    top: 25px;
+
+    background: #21B573;
+    border-radius: 33px;
+}
+
+
+
+
+
