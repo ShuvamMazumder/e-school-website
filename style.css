@@ -2,8 +2,52 @@
     height: 676px;
     background-color: #F0FFF0;
 }
-.navbar img{
-    
+.logo{
     width: 198.07px;
     height: 59px;
+}
+#books,#courses,#others,#blog{
+    
+    margin-right: 30px;
+    font-weight: bold;
+}
+.up-section{
+    margin-top: 30px;
+}
+.sign-in{
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+    background: #21B573;
+    
+}
+.illu-pic{
+    height: 500px;
+    width: 570px;
+    margin-left: 30px;
+}
+.head-5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    color: #FD511A;
+}
+.head-1{
+    font-size: 55px ;
+    font-weight: bold;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    
+}
+.strat-button{
+    padding:5px 5px ;
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    background: #21B573;
+    border-radius: 33px;
+}
+.font-grren{
+    color: #21B573;
 }
