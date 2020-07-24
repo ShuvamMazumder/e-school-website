@@ -51,26 +51,26 @@
 .font-grren{
     color: #21B573;
 }
-.card-deck{
+.cat-deck{
     margin-top: 100px;
     margin-bottom: 100px;
     
 }
-.card{
+.cat{
     height: 250px;
     width: 250px;
     padding-top: 15%;
     border: none;
     background-color: #f9fff9;
 }
-.card:hover{
+.cat:hover{
     border:none;
     box-shadow: 5px 5px 10px lightgrey;
 }
-.card-deck img{
+.cat-deck img{
     height:90px;
     width: 70px;
 }
-.card-deck h5{
+.cat-deck h5{
     font-weight: bold;
 }
