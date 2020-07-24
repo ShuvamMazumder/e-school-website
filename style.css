@@ -1,76 +1,110 @@
-.top-banner{
+.top-banner {
     height: 676px;
     background-color: #F0FFF0;
 }
-.logo{
+
+.logo {
     width: 198.07px;
     height: 59px;
 }
-#books,#courses,#others,#blog{
-    
+
+#books,
+#courses,
+#others,
+#blog {
+
     margin-right: 30px;
     font-weight: bold;
 }
-.up-section{
+
+.up-section {
     margin-top: 30px;
 }
-.sign-in{
+
+.sign-in {
     width: 104px;
     height: 43px;
     border-radius: 33px;
     background: #21B573;
-    
+
 }
-.illu-pic{
+
+.illu-pic {
     height: 400px;
     width: 580px;
     margin-left: 30px;
 }
-.head-5{
+
+.head-5 {
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
     color: #FD511A;
 }
-.head-1{
-    font-size: 55px ;
+
+.head-1 {
+    font-size: 55px;
     font-weight: bold;
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    
+
 }
-.strat-button{
-    padding:5px 5px ;
+
+.strat-button {
+    padding: 5px 5px;
     position: absolute;
     width: 160px;
     height: 45px;
     background: #21B573;
     border-radius: 33px;
 }
-.font-grren{
+
+.font-grren {
     color: #21B573;
 }
-.cat-deck{
+
+.cat-deck {
     margin-top: 100px;
     margin-bottom: 100px;
-    
+
 }
-.cat{
+
+.cat {
     height: 250px;
     width: 250px;
     padding-top: 15%;
     border: none;
     background-color: #f9fff9;
 }
-.cat:hover{
-    border:none;
+
+.cat:hover {
+    border: none;
     box-shadow: 5px 5px 10px lightgrey;
 }
-.cat-deck img{
-    height:90px;
+
+.cat-deck img {
+    height: 90px;
     width: 70px;
 }
-.cat-deck h5{
+
+.cat-deck h5 {
     font-weight: bold;
 }
+
+.cal {
+    height: 20px;
+    width: 20px;
+}
+
+.course-pic {
+    height: 250px;
+    width: 300px;
+
+}
+
+.course-deck {
+    height: 500px;
+}
+
+.course img {}
