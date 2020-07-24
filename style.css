@@ -22,8 +22,8 @@
     
 }
 .illu-pic{
-    height: 500px;
-    width: 570px;
+    height: 400px;
+    width: 580px;
     margin-left: 30px;
 }
 .head-5{
@@ -50,4 +50,27 @@
 }
 .font-grren{
     color: #21B573;
+}
+.card-deck{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+.card{
+    height: 250px;
+    width: 250px;
+    padding-top: 15%;
+    border: none;
+    background-color: #f9fff9;
+}
+.card:hover{
+    border:none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-deck img{
+    height:90px;
+    width: 70px;
+}
+.card-deck h5{
+    font-weight: bold;
 }
