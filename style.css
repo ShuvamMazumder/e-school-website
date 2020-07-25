@@ -131,3 +131,31 @@
     height: 150px;
     margin-left: 50px;
 }
+.para-head, .para-bottom, .para-fotter{
+    color: white;
+}
+
+.bottom{
+    margin-top: 50px;
+    background-color: #282531;
+    height: 360px;
+    width: 1500px;
+    padding-top: 50px;
+    padding-right:;
+}
+.para-fotter{
+    text-align: center;
+    padding-top: 30px;
+}
+.contact{
+    margin-top: 50px;
+    
+    height: 300px;
+    width:;
+    background-color: #f9fff9;
+
+}
+.staticEmail{
+    border: 1px solid ;
+}
+
