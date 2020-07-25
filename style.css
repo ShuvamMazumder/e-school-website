@@ -95,16 +95,39 @@
 .cal {
     height: 20px;
     width: 20px;
+    margin-bottom: 15px;
 }
 
 .course-pic {
     height: 250px;
     width: 300px;
-
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-left: 5px;
 }
 
 .course-deck {
-    height: 500px;
+    height: 480px;
+    
 }
 
-.course img {}
+.course img {
+   
+}
+.people-logo{
+    margin-left:80px;
+}
+.cal-logo{
+    margin-left: 20px;
+}
+.h-1{
+    margin-left: 430px;
+    margin-bottom: 20px;
+}
+.testimonial{
+    margin-top: 50px;
+}
+.man-pic{
+    height: 150px;
+    margin-left: 50px;
+}
